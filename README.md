@@ -2,7 +2,7 @@
 
 A modern, interactive digital portfolio showcasing professional experience, technical projects, and quantitative expertise. Built with React and featuring a dynamic 3D background powered by Spline.
 
-## 🚀 Live Demo
+## 🚀 Live Website
 
 [Portfolio Website](https://your-portfolio-url.com)
 
@@ -147,13 +147,6 @@ src/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contact
-
-- **Email:** vanmurphy50@outlook.com
-- **LinkedIn:** [Donovan Murphy](https://www.linkedin.com/in/donovan-murphy-426274259/)
-- **GitHub:** [murphyd14](https://github.com/murphyd14/)
-- **Phone:** (407) 468-1711
-
 ## 🙏 Acknowledgments
 
 - **Spline** for the amazing 3D background and interactive elements
@@ -162,4 +155,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by Donovan Murphy**
+**Built by Donovan Murphy**
