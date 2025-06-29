@@ -46,7 +46,7 @@ export default function Hero() {
       <div className="relative z-10 flex flex-col items-center justify-center text-white text-center px-4">
         <h1 className="text-5xl font-bold text-white mb-2">Donovan Murphy</h1>
         <p className="text-xl mb-8 text-white">
-          Ex-Athlete. Builder. Future Investor.
+          Former NCAA Athlete. Technical Builder. Future Investor.
         </p>
         <hr className="w-64 border-gray-700 mb-8" />
         <div className="flex flex-row flex-wrap justify-center gap-4 mb-8">

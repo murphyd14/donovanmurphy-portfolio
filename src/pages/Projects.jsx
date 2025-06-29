@@ -141,7 +141,7 @@ export default function Projects() {
               Learn More
             </a>
             <a
-              href="https://drive.google.com/file/d/1NysZGZfLz3BSpceqPN9oKNChdGrJM-SD/view?usp=drive_link"
+              href="https://youtu.be/gSf3hTcHWhQ"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105"
